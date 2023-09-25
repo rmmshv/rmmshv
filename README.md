@@ -1,4 +1,4 @@
-## hi there!👾
+## hi!
 
 My name is Ri. I am a computer science student passionate about open source and applying my software engineering skills toward positive societal and environmental change.
 
